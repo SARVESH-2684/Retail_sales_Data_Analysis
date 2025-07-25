@@ -4,11 +4,10 @@ This repository contains a basic yet structured data analysis project built usin
 
 ## Features
 - Data cleaning (handling missing values, duplicates, outliers)
-- Data transformation and encoding
-- Exploratory Data Analysis (EDA)
-- Advanced analytics (correlation, groupings, aggregations)
+- Data transformation
+- Advanced analytics (Time series analysis,Churn Analysis, Cohort segmentation,  )
 - Data visualization with libraries like Seaborn & Matplotlib
-- Clean modular code in scripts and Jupyter Notebooks
+- Clean modular code in Jupyter Notebooks
 
 
 ## Technologies Used
