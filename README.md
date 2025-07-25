@@ -18,3 +18,6 @@ This repository contains a basic yet structured data analysis project built usin
 - Seaborn
 - Jupyter Notebook
 
+## Dataset Used
+- Retail_Data_Response.csv
+- Retail_Data_Transactions.csv
